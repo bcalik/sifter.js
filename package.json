@@ -11,7 +11,7 @@
     "autocomplete"
   ],
   "description": "Fork of the sifter package with Turkish support.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "Burak Çalık <burak@macellan.net>",
   "main": "./sifter.js",
   "repository": {
