@@ -1,5 +1,5 @@
 {
-  "name": "sifter",
+  "name": "sifter-tr",
   "keywords": [
     "search",
     "filter",
@@ -10,13 +10,13 @@
     "sort",
     "autocomplete"
   ],
-  "description": "A library for textually searching arrays and hashes of objects by property (or multiple properties). Designed specifically for autocomplete.",
+  "description": "Fork of the sifter package with Turkish support.",
   "version": "0.4.1",
-  "author": "Brian Reavis <brian@thirdroute.com>",
+  "author": "Burak Çalık <burak@macellan.net>",
   "main": "./sifter.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/brianreavis/sifter.js.git"
+    "url": "git://github.com/bcalik/sifter.js.git"
   },
   "scripts": {
   	"test": "mocha -R list"

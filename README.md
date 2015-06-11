@@ -1,3 +1,6 @@
+# Notice
+This library is a fork of [sifter.js](https://github.com/brianreavis/sifter.js) with Turkish language support.
+
 # sifter.js
 [![NPM version](http://img.shields.io/npm/v/sifter.svg?style=flat)](https://www.npmjs.org/package/sifter)
 [![Installs](http://img.shields.io/npm/dm/sifter.svg?style=flat)](https://www.npmjs.org/package/sifter)
