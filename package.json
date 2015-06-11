@@ -11,7 +11,7 @@
     "autocomplete"
   ],
   "description": "Fork of the sifter package with Turkish support.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Burak Çalık <burak@macellan.net>",
   "main": "./sifter.js",
   "repository": {
@@ -19,7 +19,7 @@
     "url": "git://github.com/bcalik/sifter.js.git"
   },
   "scripts": {
-  	"test": "mocha -R list"
+    "test": "mocha -R list"
   },
   "bin": {
     "sifter": "./bin/sifter.js"
